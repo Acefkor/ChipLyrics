@@ -1,6 +1,18 @@
-*.class
+#Ignore compiled
+target
 
-# Package Files #
-*.jar
-*.war
-*.ear
+#Faces
+faces-config.NavData
+
+# Mac
+.DS_Store
+
+# NetBeans
+nbactions.xml
+nb-configuration.xml
+
+# Ignore catalog
+catalog.xml
+
+#Ignore backups scripts
+backupscripts
